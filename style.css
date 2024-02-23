@@ -1,4 +1,8 @@
 .marquee {
-  font-size: xx-large;
+  font-size: 300px;
   font-family: fantasy;
+  color: blueviolet;
+}
+.body {
+  background-image: url(https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/000/382/074/datas/original.png);
 }
